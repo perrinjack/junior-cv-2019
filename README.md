@@ -34,9 +34,7 @@ For a complete list, feel free to navigate through my [GitHub](https://github.co
 
 #### Fast learner
 
-I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. For our [Makersbnb](), and [Small Steps](https://small-steps2020.herokuapp.com/) projects, myself and the team decided to leave our comfort zone and learn React, Node,js and Express in the space of 3 weeks without it being in the course curriculum.
-
-#### Point 4 Unfinished.
+I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. For our [Makersbnb](), and [Small Steps](https://small-steps2020.herokuapp.com/) projects, myself and the team decided to leave our comfort zone and learn React, Node.js and Express in the space of 3 weeks without it being in the course curriculum.
 
 ## Education
 
