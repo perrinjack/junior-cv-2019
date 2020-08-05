@@ -1,6 +1,10 @@
 ## Jack Perrin
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [ Charity Work ](#Charity-Work)| [ LinkedIn ](https://www.linkedin.com/in/jack-perrin-b8a447111/) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [ Charity Work ](#Charity-Work)| |
+
+[![LinkedIn Profile]](https://www.linkedin.com/in/jack-perrin-b8a447111/)
+[![Email]](mailto:perrinjack96@gmail.com)
+[![GitHub Profile]](https://github.com/perrinjack)
 
 I am an energetic and ambitious **Full Stack Junior Developer**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
@@ -10,7 +14,7 @@ After graduating from the University of Bristol with a Masters degree in Electri
 
 ## Projects
 
-For a complete list, see my [GitHub](https://github.com/perrinjack) repositories.
+For a complete list, feel free to navigate through my[GitHub](https://github.com/perrinjack) repositories.
 
 | Project                                                           | Description                                                                                                                                                                                                            | Technologies                                                                                                                 |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +35,7 @@ From having to organise an end-of-year ball during my final year at university, 
 
 #### Fast learner
 
-I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. For our [Makersbnb](), and [Small Steps] projects, myself and the team decided to leave our comfort zone and learn React, Node,js and Express in the space of 3 weeks without it being in the course curriculum.
+I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. For our [Makersbnb](), and [Small Steps](https://small-steps2020.herokuapp.com/) projects, myself and the team decided to leave our comfort zone and learn React, Node,js and Express in the space of 3 weeks without it being in the course curriculum.
 
 #### Point 4 Unfinished.
 
