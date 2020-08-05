@@ -84,7 +84,7 @@ _GreenKeeper_
 
 - Summitted Mount Kilimanjaro, Africa's highest mountain raising money for 3 Tanzanian orphanages.
 
-- Participate yearly in Movember raising awareness about men's health issues, such as prostate cancer, testicular cancer, and men's suicide.
+- Participate yearly in Movember raising awareness for men's health issues, such as prostate cancer, testicular cancer, and men's suicide.
 
 <!-- Badges n stuff  -->
 
