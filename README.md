@@ -1,10 +1,14 @@
 ## Jack Perrin
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [ Charity Work ](#Charity-Work)| |
+<div align="center">
+
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [ Charity Work ](#Charity-Work)|
 
 [![LinkedIn Profile]](https://www.linkedin.com/in/jack-perrin-b8a447111/)
 [![Email]](mailto:perrinjack96@gmail.com)
 [![GitHub Profile]](https://github.com/perrinjack)
+
+</div>
 
 I am an energetic and ambitious **Full Stack Junior Developer**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
@@ -26,20 +30,13 @@ For a complete list, feel free to navigate through my[GitHub](https://github.com
 
 #### Point 1 Unfinished
 
-During my time at Bank of America, I wrote and distributed a daily newsletter to clients, with market commentary and data analysis. I have continued to develop my written communication skills by [blogging](http://codingwithlaura.wordpress.com) about my experience learning to code and I use it to develop a stronger online presence, by combining it with other social media outlets such as [Twitter](https://twitter.com/wilslau).
-I have also taken up coaching at Codebar, a non-profit initiative which runs regular programming workshops.
-
 #### Point 2 Unfinished
-
-From having to organise an end-of-year ball during my final year at university, where the bulk of the organisation coincided with completing finals, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
 
 #### Fast learner
 
 I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. For our [Makersbnb](), and [Small Steps](https://small-steps2020.herokuapp.com/) projects, myself and the team decided to leave our comfort zone and learn React, Node,js and Express in the space of 3 weeks without it being in the course curriculum.
 
 #### Point 4 Unfinished.
-
-In my role at Bank of America, I analysed new market data on a daily basis to generate trade ideas. Furthermore, I undertook a project to migrate all of our systems and trade history to a new legal entity. This required careful risk analysis which ensured there was no negative P&L impact on completion.
 
 ## Education
 
