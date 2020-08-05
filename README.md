@@ -20,20 +20,20 @@ For a complete list, see my [GitHub](https://github.com/perrinjack) repositories
 
 ## Skills
 
-#### Excellent communicator
+#### Point 1 Unfinished
 
 During my time at Bank of America, I wrote and distributed a daily newsletter to clients, with market commentary and data analysis. I have continued to develop my written communication skills by [blogging](http://codingwithlaura.wordpress.com) about my experience learning to code and I use it to develop a stronger online presence, by combining it with other social media outlets such as [Twitter](https://twitter.com/wilslau).
 I have also taken up coaching at Codebar, a non-profit initiative which runs regular programming workshops.
 
-#### Thrives under pressure
+#### Point 2 Unfinished
 
 From having to organise an end-of-year ball during my final year at university, where the bulk of the organisation coincided with completing finals, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
 
 #### Fast learner
 
-I earned a full-time offer at Bank of America Merrill Lynch by impressing my line manager with how quickly I picked up an understanding of finance and the technologies that the team used, despite having a scientific background and no previous experience in finance. For our [Makersbnb project](http://github.com/lsewilson/makers-bnb), I learnt Node.js and Express without it being taught on the course and used it to build a fully-functioning Airbnb-style website in a week.
+I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. For our [Makersbnb](), and [Small Steps] projects, myself and the team decided to leave our comfort zone and learn React, Node,js and Express in the space of 3 weeks without it being in the course curriculum.
 
-#### Analytical thinker
+#### Point 4 Unfinished.
 
 In my role at Bank of America, I analysed new market data on a daily basis to generate trade ideas. Furthermore, I undertook a project to migrate all of our systems and trade history to a new legal entity. This required careful risk analysis which ensured there was no negative P&L impact on completion.
 
@@ -78,11 +78,11 @@ _GreenKeeper_
 ## Hobbies and Interests
 
 - **High adrenaline sports** : completed the worlds 10th highest bungee jump & highest commercial skydive.
-- **Sports Fan** : Luton Town season ticket holder & Barmy Army member (England Cricket Away Fan Club ).
+- **Sports Fan** : Luton Town season ticket holder & Barmy Army Member (England Cricket's Supporters Club ).
 - **Fitness** : I gym daily to keep fit, and take my mind off work and any troubles.
 
 ## Charity Work
 
-- Climbed Mount Kilimanjaro, Africa's highest mountain raising money for 3 Tanzanian orphanages.
+- Summitted Mount Kilimanjaro, Africa's highest mountain raising money for 3 Tanzanian orphanages.
 
 - Participate yearly in Movember raising awareness about men's health issues, such as prostate cancer, testicular cancer, and men's suicide.
