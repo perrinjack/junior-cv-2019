@@ -37,11 +37,6 @@ I earned a full-time offer at Bank of America Merrill Lynch by impressing my lin
 
 In my role at Bank of America, I analysed new market data on a daily basis to generate trade ideas. Furthermore, I undertook a project to migrate all of our systems and trade history to a new legal entity. This required careful risk analysis which ensured there was no negative P&L impact on completion.
 
-#### Additional skills
-
-- Methodologies : Agile, XP, Test Driven Development
-- Foreign languages : Basic Japanese and French
-
 ## Education
 
 #### Makers Academy (April '20 - July '20)
@@ -82,9 +77,9 @@ _GreenKeeper_
 
 ## Hobbies and Interests
 
-- **Skiing** :
-- \*\*\*\* :
-- **Baking** :
+- **High adrenaline sports** : completed the worlds 10th highest bungee jump & highest commercial skydive.
+- **Sports Fan** : Luton Town season ticket holder & Barmy Army member (England Cricket Away Fan Club ).
+- **Fitness** : I gym daily to keep fit, and take my mind off work and any troubles.
 
 ## Charity Work
 
