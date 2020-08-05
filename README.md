@@ -18,7 +18,7 @@ After graduating from the University of Bristol with a Masters degree in Electri
 
 ## Projects
 
-For a complete list, feel free to navigate through my[GitHub](https://github.com/perrinjack) repositories.
+For a complete list, feel free to navigate through my [GitHub](https://github.com/perrinjack).
 
 | Project                                                           | Description                                                                                                                                                                                                            | Technologies                                                                                                                 |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -87,3 +87,9 @@ _GreenKeeper_
 - Summitted Mount Kilimanjaro, Africa's highest mountain raising money for 3 Tanzanian orphanages.
 
 - Participate yearly in Movember raising awareness about men's health issues, such as prostate cancer, testicular cancer, and men's suicide.
+
+<!-- Badges n stuff  -->
+
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
