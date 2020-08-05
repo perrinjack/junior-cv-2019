@@ -10,13 +10,13 @@ After graduating from the University of Bristol with a Masters degree in Electri
 
 ## Projects
 
-For a complete list, see my [GitHub](https://github.com/perrinjack).
+For a complete list, see my [GitHub](https://github.com/perrinjack) repositories.
 
-| Project                                                      | Description                                                                                                                                                                                             | Technologies                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [quikNews](https://www.github.com/uxbuddy/uxbuddy)           | A UX Research Tool for developers. Users can upload projects, generate surveys to send to testers and review response data.                                                                             | Javascript, Jasmine, Google Analytics           |
-| [Bank Tech Test](https://www.github.com/lsewilson/atomodoro) | A pomodoro timer Atom package. Users are encouraged to take breaks at regular intervals by a pomodoro timer running in the background of an Atom session. During breaks, users' keyboards are disabled. | Python, PyTest                                  |
-| [Rubriks Cube](https://www.youtube.com/watch?v=ekkY4wNfVEE)  | An AirBnB clone for which we taught ourselves Node in a week.                                                                                                                                           | Node.js, Express, Pug, Sequelize, Mocha, Zombie |
+| Project                                                           | Description                                                                                                                                                                                                            | Technologies                                        |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [quikNews](https://github.com/perrinjack/quicknews)               | A single page web app, taking advantage of both the Guardian News and Aylien text summarisation API's, to display the latest headlines & stories in a simple format. Have a peek [here](https://quicknews.imfast.io/)! | Javascript, Jasmine, Google Analytics               |
+| [Bank Tech Test](https://github.com/perrinjack/Bank-Tech-Test-Py) | A CLI program emulating a bank account, showcasing test driven development in 2 languages.                                                                                                                             | Python, PyTest, Ruby, RSpec                         |
+| [Small Steps](https://small-steps2020.herokuapp.com/)             |                                                                                                                                                                                                                        | Node.js, Express, React, Jest, Enzyme, Google API's |
 
 ## Skills
 
