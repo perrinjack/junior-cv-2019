@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [ Charity Work ](#Charity-Work)|
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [ Charity Work ](#Charity-Work)
 
 [![LinkedIn Profile]](https://www.linkedin.com/in/jack-perrin-b8a447111/)
 [![Email]](mailto:perrinjack96@gmail.com)
