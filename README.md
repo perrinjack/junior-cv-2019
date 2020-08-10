@@ -50,7 +50,7 @@ A 16-week intensive development bootcamp, focusing on :
 - Production of high quality clean code.
 - Emotional intelligence.
 
-#### University of Bristol, (September '15 - Jun '19)
+#### University of Bristol, (September '15 - June '19)
 
 - MEng Electrical and Electronic Engineering.
 - First Class Honours.
