@@ -15,7 +15,7 @@ I am an energetic and ambitious **Full Stack Junior Developer**, looking for a r
 
 After graduating from the University of Bristol with a Masters degree in Electrical and Electronic Engineering (First Class Honours), I spent 6 months travelling independently around South East Asia, Australia and New Zealand.
 
-**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, React, PostgreSQL, MATLAB, Google Analytics
+**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript,jQuery, React, PostgreSQL, MATLAB, Google Analytics
 
 ## Projects
 
@@ -57,6 +57,7 @@ A 16-week intensive development bootcamp, focusing on :
 - First Class Honours.
 - Specialised in Communications Engineering.
 - Participated in a variety of group projects, including building an autonomous robot that solved a [Rubriks Cube](https://www.youtube.com/watch?v=ekkY4wNfVEE) in 53 seconds.
+- Represented the University of Bristol at Rugby between 2015-2019.
 
 #### St Albans School, St Albans (September '08 - July '15)
 
@@ -70,11 +71,17 @@ A 16-week intensive development bootcamp, focusing on :
 **Barclaycard UK** (Jun '18 - Aug '18)  
 _Technology Intern within Barclaycard's Merchant Acquiring Business_
 
+- Responsibilities included; maintaining the high performance of Barclaycard’s payment authorisations platform, reporting of technological risks to senior management along with driving projects to meet their deliverables.
+
 **Cricket Direct** (Aug '17 - Sep '17, Jun '19 - Oct '19)  
 _Customer Service Assistant_
 
+- Telephone sales, resolved customer’s problems with faulty products and delivery issues.
+
 **Harpenden Common Golf Club** (Jul '16 - Sept '16)  
 _GreenKeeper_
+
+- Maintained the golf course to the highest standard throughout the busy summer months. This included cutting greens, fairways and tees and also using industrial standard irrigation equipment.
 
 ## Hobbies and Interests
 
