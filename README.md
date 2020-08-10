@@ -19,7 +19,7 @@ After graduating from the University of Bristol with a Masters degree in Electri
 
 ## Projects
 
-For a complete list, feel free to navigate through my [GitHub](https://github.com/perrinjack?tab=repositories).
+For a complete list, feel free to navigate through my [GitHub repositories](https://github.com/perrinjack?tab=repositories).
 
 | Project                                                           | Description                                                                                                                                                                                                            | Technologies                                                                                                                 |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -92,5 +92,4 @@ _GreenKeeper_
 [linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
 [github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
-
-[codewars]:  https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
+[codewars]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
