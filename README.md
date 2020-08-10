@@ -1,6 +1,6 @@
-## Jack Perrin
-
 <div align="center">
+
+## Jack Perrin
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [ Charity Work ](#Charity-Work)
 
@@ -34,8 +34,7 @@ For a complete list, feel free to navigate through my [GitHub repositories](http
 
 #### Strong Communicator
 
- I have always been recognised as an outgoing, confident and social person. I owe this to my participation in team sports from a very young age, during which I captained very successful cricket sides and became rugby champions of Southern England. I have built upon this skill at Makers Academy, with the help of emotional intelligence workshops, allowing me to actively build relationships with people from different backgrounds.
- 
+I have always been recognised as an outgoing, confident and social person. I owe this to my participation in team sports from a very young age, during which I captained very successful cricket sides and became rugby champions of Southern England. I have built upon this skill at Makers Academy, with the help of emotional intelligence workshops, allowing me to actively build relationships with people from different backgrounds.
 
 #### Fast learner
 
