@@ -15,7 +15,7 @@ I am an energetic and ambitious **Full Stack Junior Developer**, looking for a r
 
 After graduating from the University of Bristol with a Masters degree in Electrical and Electronic Engineering (First Class Honours), I spent 6 months travelling independently around South East Asia, Australia and New Zealand.
 
-**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript,jQuery, React, PostgreSQL, MATLAB, Google Analytics
+**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, React, PostgreSQL, MATLAB, Google Analytics
 
 ## Projects
 
@@ -23,16 +23,19 @@ For a complete list, feel free to navigate through my [GitHub repositories](http
 
 | Project                                                           | Description                                                                                                                                                                                                            | Technologies                                                                                                                 |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [Small Steps](https://github.com/perrinjack/Small_Steps)             | A carbon emissions calculator for journeys by car, plane, bus or rail throughout the UK. Have a peek [here](https://small-steps2020.herokuapp.com/)!                                                                                                                    | Node.js, Express, React, Jest, Enzyme, Google API's                                                                          |
+| [Small Steps](https://github.com/perrinjack/Small_Steps)          | A carbon emissions calculator for journeys by car, plane, bus or rail throughout the UK. Have a peek [here](https://small-steps2020.herokuapp.com/)!                                                                   | Node.js, Express, React, Jest, Enzyme, Google API's                                                                          |
 | [quikNews](https://github.com/perrinjack/quicknews)               | A single page web app, taking advantage of both the Guardian News and Aylien text summarisation API's, to display the latest headlines & stories in a simple format. Have a peek [here](https://quicknews.imfast.io/)! | Javascript, Jasmine, Google Analytics                                                                                        |
 | [Bank Tech Test](https://github.com/perrinjack/Bank-Tech-Test-Py) | A CLI program emulating a bank account, showcasing test driven development in 2 languages.                                                                                                                             | [Python](https://github.com/perrinjack/Bank-Tech-Test-Py), PyTest, [Ruby](https://github.com/perrinjack/BankTechTest), RSpec |
-| [MakersBnB](https://github.com/perrinjack/MakersBnB)    | An AirBnB clone, allowing landlords to display properties and users to book stays   | Javascript, Express, Node, PostgreSQL, Ejs, CSS, Jest, WebDriverIO
+| [MakersBnB](https://github.com/perrinjack/MakersBnB)              | An AirBnB clone, allowing landlords to display properties and users to book stays                                                                                                                                      | Javascript, Express, Node, PostgreSQL, Ejs, CSS, Jest, WebDriverIO                                                           |
 
 ## Skills
 
 #### Point 1 Unfinished
 
-#### Point 2 Unfinished
+#### Strong Communicator
+
+ I have always been recognised as an outgoing, confident and social person. I owe this to my participation in team sports from a very young age, during which I captained very successful cricket sides and became rugby champions of Southern England. I have built upon this skill at Makers Academy, with the help of emotional intelligence workshops, allowing me to actively build relationships with people from different backgrounds.
+ 
 
 #### Fast learner
 
