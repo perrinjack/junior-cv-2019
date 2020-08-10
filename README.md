@@ -26,19 +26,21 @@ For a complete list, feel free to navigate through my [GitHub repositories](http
 | [Small Steps](https://github.com/perrinjack/Small_Steps)          | A carbon emissions calculator for journeys by car, plane, bus or rail throughout the UK. Have a peek [here](https://small-steps2020.herokuapp.com/)!                                                                   | Node.js, Express, React, Jest, Enzyme, Google API's                                                                          |
 | [quikNews](https://github.com/perrinjack/quicknews)               | A single page web app, taking advantage of both the Guardian News and Aylien text summarisation API's, to display the latest headlines & stories in a simple format. Have a peek [here](https://quicknews.imfast.io/)! | Javascript, Jasmine, Google Analytics                                                                                        |
 | [Bank Tech Test](https://github.com/perrinjack/Bank-Tech-Test-Py) | A CLI program emulating a bank account, showcasing test driven development in 2 languages.                                                                                                                             | [Python](https://github.com/perrinjack/Bank-Tech-Test-Py), PyTest, [Ruby](https://github.com/perrinjack/BankTechTest), RSpec |
-| [MakersBnB](https://github.com/perrinjack/MakersBnB)              | An AirBnB clone, allowing landlords to display properties and users to book stays                                                                                                                                      | Javascript, Express, Node, PostgreSQL, Ejs, CSS, Jest, WebDriverIO                                                           |
+| [MakersBnB](https://github.com/perrinjack/MakersBnB)              | An AirBnB clone, allowing landlords to display properties and users to book stays.                                                                                                                                     | Javascript, Express, Node, PostgreSQL, Ejs, CSS, Jest, WebDriverIO                                                           |
 
 ## Skills
 
-#### Point 1 Unfinished
+#### A meticulous problem solver
 
-#### Strong Communicator
+Throughout both my time at university and at Makers I have shown an exceptional ability to problem solve under pressure. Whether handling database migration issues or the most complex of bugs, I find it beneficial to split the problem up and then discuss and test each component bit by bit with team members, ensuring all members understand the reason for the problem and the solution required. This enables all team members to learn from mistakes and have equal ownership over the code, while promoting collective success.
 
-I have always been recognised as an outgoing, confident and social person. I owe this to my participation in team sports from a very young age, during which I captained very successful cricket sides and became rugby champions of Southern England. I have built upon this skill at Makers Academy, with the help of emotional intelligence workshops, allowing me to actively build relationships with people from different backgrounds.
+#### Strong communicator
+
+I have always been recognised as an outgoing, confident and social person. I owe this to my participation in team sports from a very young age, during which I captained very successful cricket sides as well as my club side becoming rugby champions of Southern England. I have built upon this skill at Makers Academy, with the help of emotional intelligence workshops, allowing me to actively build relationships with people from different backgrounds.
 
 #### Fast learner
 
-I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. For our [Makersbnb](https://github.com/perrinjack/MakersBnB), and [Small Steps](https://github.com/perrinjack/Small_Steps) projects, myself and the team decided to leave our comfort zone and learn React, Node.js and Express in the space of 3 weeks without it being in the course curriculum.
+I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. in addition to this, for our [Makersbnb](https://github.com/perrinjack/MakersBnB), and [Small Steps](https://github.com/perrinjack/Small_Steps) projects, myself and the team decided to leave our comfort zone and learn React, Node.js and Express in the space of 3 weeks without it being in the course curriculum.
 
 ## Education
 
