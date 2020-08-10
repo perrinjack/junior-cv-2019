@@ -19,7 +19,7 @@ After graduating from the University of Bristol with a Masters degree in Electri
 
 ## Projects
 
-For a complete list, feel free to navigate through my [GitHub](https://github.com/perrinjack).
+For a complete list, feel free to navigate through my [GitHub](https://github.com/perrinjack?tab=repositories).
 
 | Project                                                           | Description                                                                                                                                                                                                            | Technologies                                                                                                                 |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
