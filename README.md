@@ -7,6 +7,7 @@
 [![LinkedIn Profile]](https://www.linkedin.com/in/jack-perrin-b8a447111/)
 [![Email]](mailto:perrinjack96@gmail.com)
 [![GitHub Profile]](https://github.com/perrinjack)
+[![CodeWars]](https://www.codewars.com/users/perrinjack96)
 
 </div>
 
@@ -91,3 +92,5 @@ _GreenKeeper_
 [linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
 [github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
+
+[codewars]:  https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
