@@ -46,7 +46,7 @@ I earned a full-time offer at Barclaycard by impressing my line manager with how
 
 #### Makers Academy (April '20 - July '20)
 
-A 16-week intensive development bootcamp, focusing on :
+A 16-week intensive programming bootcamp, focusing on :
 
 - Agile methodologies.
 - Object-oriented design.
