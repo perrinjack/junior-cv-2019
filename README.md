@@ -40,7 +40,7 @@ I have always been recognised as an outgoing, confident and social person. I owe
 
 #### Fast learner
 
-I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. in addition to this, for our [Makersbnb](https://github.com/perrinjack/MakersBnB), and [Small Steps](https://github.com/perrinjack/Small_Steps) projects, myself and the team decided to leave our comfort zone and learn React, Node.js and Express in the space of 3 weeks without it being in the course curriculum.
+I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. In addition to this, for our [Makersbnb](https://github.com/perrinjack/MakersBnB), and [Small Steps](https://github.com/perrinjack/Small_Steps) projects, myself and the team decided to leave our comfort zone and learn React, Node.js and Express in the space of 3 weeks without it being in the course curriculum.
 
 ## Education
 
