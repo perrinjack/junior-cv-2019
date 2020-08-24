@@ -15,7 +15,7 @@ I am an energetic and ambitious **Full Stack Junior Developer**, looking for a r
 
 After graduating from the University of Bristol with a Masters degree in Electrical and Electronic Engineering (First Class Honours), I spent 6 months travelling independently around South East Asia, Australia and New Zealand.
 
-**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, React, PostgreSQL, MATLAB, Google Analytics
+**Tech Skills**: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, React, PostgreSQL, MATLAB, Google Analytics
 
 ## Projects
 
@@ -32,15 +32,15 @@ For a complete list, feel free to navigate through my [GitHub repositories](http
 
 #### A meticulous problem solver
 
-Throughout both my time at university and at Makers I have shown an exceptional ability to problem solve under pressure. Whether handling database migration issues or the most complex of bugs, I find it beneficial to split the problem up and then discuss and test each component bit by bit with team members, ensuring all members understand the reason for the problem and the solution required. This enables all team members to learn from mistakes and have equal ownership over the code, while promoting collective success.
+Throughout both my time at university and Makers I have shown an exceptional ability to problem solve under pressure. Whether handling database migration issues or the most complex of bugs, I find it beneficial to split the problem up and then discuss and test each component bit by bit with team members, ensuring all members understand the reason for the problem and the solution required. This enables all team members to learn from mistakes and have equal ownership over the code while promoting collective success.
 
 #### Strong communicator
 
-I have always been recognised as an outgoing, confident and social person. I owe this to my participation in team sports from a very young age, during which I captained very successful cricket sides as well as my club side becoming rugby champions of Southern England. I have built upon this skill at Makers Academy, with the help of emotional intelligence workshops, allowing me to actively build relationships with people from different backgrounds.
+I have always been recognised as an outgoing, confident, and social person. I owe this to my participation in team sports from a very young age, during which I captained very successful cricket sides as well as my club side becoming rugby champions of Southern England. I have built upon this skill at Makers Academy, with the help of emotional intelligence workshops, allowing me to actively build relationships with people from different backgrounds.
 
 #### Fast learner
 
-I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. In addition to this, for our [Makersbnb](https://github.com/perrinjack/MakersBnB), and [Small Steps](https://github.com/perrinjack/Small_Steps) projects, myself and the team decided to leave our comfort zone and learn React, Node.js and Express in the space of 3 weeks without it being in the course curriculum.
+I earned a full-time offer at Barclaycard by impressing my line manager with how quickly I picked up an understanding of merchant acquiring and the technologies that the team used, despite only being at the company for 8 weeks. In addition to this, for our [Makersbnb](https://github.com/perrinjack/MakersBnB), and [Small Steps](https://github.com/perrinjack/Small_Steps) projects, myself and the team decided to leave our comfort zone and learn React, Node.js, and Express in the space of 3 weeks without it being in the course curriculum.
 
 ## Education
 
@@ -55,7 +55,7 @@ A 16-week intensive programming bootcamp, focusing on :
 - Production of high quality clean code.
 - Emotional intelligence.
 
-#### University of Bristol, (September '15 - June '19)
+#### The University of Bristol, (September '15 - June '19)
 
 - MEng Electrical and Electronic Engineering.
 - First Class Honours.
@@ -89,7 +89,7 @@ _GreenKeeper_
 
 ## Hobbies and Interests
 
-- **High adrenaline sports** : completed the worlds 10th highest bungee jump & highest commercial skydive.
+- **High adrenaline sports** : completed the world's 10th highest bungee jump & highest commercial skydive.
 - **Sports Fan** : Luton Town season ticket holder & Barmy Army Member (England Cricket's Supporters Club ).
 - **Fitness** : I gym daily to keep fit, and take my mind off work and any troubles.
 
