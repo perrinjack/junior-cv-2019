@@ -17,6 +17,8 @@ After graduating from the University of Bristol with a Masters degree in Electri
 
 **Tech Skills**: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, React, PostgreSQL, MATLAB, Google Analytics
 
+View my portfolio page [here](https://www.jack-perrin.uk/) built with React!
+
 ## Projects
 
 For a complete list, feel free to navigate through my [GitHub repositories](https://github.com/perrinjack?tab=repositories).
